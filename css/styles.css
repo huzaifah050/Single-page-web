@@ -1,0 +1,68 @@
+* {
+    box-sizing: border-box;
+}
+body {
+    background: #f4f4f4;
+}
+
+.navbar-default {
+    height: 80px;
+    margin-bottom: 0;
+}
+
+.brand-img {
+    height: 60px;
+    margin-left: 50px;
+    position: relative;
+    bottom: 5px;
+}
+.navbar-nav > li > a {
+    margin-top: 10px;
+}
+.carousel-img {
+    width: 100%;
+    height: 550px;
+}
+
+.plans {
+    margin-top: 150px;
+}
+
+ p, h3, h1 {
+    text-align: center;
+}
+footer {
+    background: darkblue;
+    color: black;
+}
+
+.footer {
+    display: flex;
+}
+
+.kenya {
+    flex: 1;
+    padding: 50px;
+}
+
+.ghana {
+    flex: 1;
+    padding: 50px;
+}
+
+.nigeria {
+    flex: 1;
+    padding: 50px;
+}
+
+.city {
+    color: yellowgreen;
+}
+
+.address {
+    color: white;
+}
+
+.country {
+    color: peru;
+}
